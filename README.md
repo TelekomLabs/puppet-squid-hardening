@@ -1,0 +1,2 @@
+puppet-squid-hardening
+======================
